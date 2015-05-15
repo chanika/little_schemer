@@ -1,0 +1,3 @@
+8_7) The second argument of cons must be a list.
+9_1) (car l) is (b), so (cons a (b)) is (a b)
+9_2) (cdr l) is (c d), so (cons a (c d)) is (a c d)
